@@ -6,10 +6,7 @@ Welcome to the **Skin Health Tracker** project! This application helps users tra
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [Members](#members)
-- [License](#license)
 
 ## Features
 
@@ -26,7 +23,7 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/poomipoom/skin-health-tracker.git
 
-## Member
+## Members
 
 - 6510110090 Chanathip Chaikit
 - 6510110185 Thanachot Poomnuek
